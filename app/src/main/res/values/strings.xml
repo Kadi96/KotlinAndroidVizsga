@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShoppingList_Feleves</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_item_name">Új termék neve:</string>
+    <string name="new_item_comment">Megjegyzés:</string>
+    <string name="new_item_categorie">Kategória:</string>
+    <string name="new_item_save">Hozzáad</string>
+    <string name="cancel">Mégse</string>
+    <string name="new_item_title">Új termék hozzáadás</string>
+    <string name="edit_item_title">Termék módosítás</string>
+    <string-array name="categories">
+        <item>Tejtermék</item>
+        <item>Pékárú</item>
+        <item>Húsok</item>
+        <item>Gyümölcs-Zöldség</item>
+        <item>Italok</item>
+        <item>Ruházat</item>
+        <item>Egyéb</item>
+    </string-array>
+</resources>
